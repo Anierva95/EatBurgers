@@ -2,6 +2,7 @@ li {
     padding: 5px;
     margin: 5px;
     background: #faebd7;
+    color: black
   }
   
   .label {
@@ -16,5 +17,11 @@ li {
   
   .form-group {
     margin-bottom: 5px;
+  }
+
+  body {
+    background-image: url("../image/wp3732378.jpg");
+    background-size: cover;
+    color: white;
   }
   
